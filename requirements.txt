@@ -1,0 +1,13 @@
+alog==0.9.13
+scipy==1.1.0
+scikit_image==0.13.1
+tqdm
+Cython
+dsntnn==0.4.0a0
+Pillow==6.2.0
+scripts==2.0
+git+https://github.com/philferriere/cocoapi.git#subdirectory=PythonAPI
+imgaug
+opencv-python
+torchvision==0.8.0  -f https://download.pytorch.org/whl/torch_stable.html
+torchaudio==0.7.0  -f https://download.pytorch.org/whl/torch_stable.html
